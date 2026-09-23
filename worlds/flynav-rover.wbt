@@ -1,0 +1,38 @@
+#VRML_SIM R2025a utf8
+
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2025a/projects/objects/floors/protos/RectangleArena.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2025a/projects/robots/gctronic/e-puck/protos/E-puck.proto"
+
+WorldInfo {
+}
+Viewpoint {
+  orientation 0.12977267623566277 -0.5449129094460768 -0.8283893852661596 5.723283697059611
+  position -1.915519817213982 -0.3116435351022956 1.0819101449843718
+}
+Background {
+  skyColor [
+    0.4 0.7 1
+  ]
+}
+DirectionalLight {
+  ambientIntensity 1
+  direction 0.1 -0.5 0.3
+}
+RectangleArena {
+}
+E-puck {
+  hidden position_0_0 51.27013295049601
+  hidden position_0_1 62.412074255503626
+  hidden linearVelocity_0 -0.0340382536103366 -0.008756302056562469 -6.339689709241991e-09
+  hidden angularVelocity_0 -0.000357333266784859 0.0013890610834531572 -3.874791555183444e-09
+  hidden rotation_1 0 1 0 1.0046504930593207
+  hidden linearVelocity_1 -0.03403130784101918 -0.008754515269881802 -4.543773689869505e-12
+  hidden angularVelocity_1 0.4377257421474305 -1.7015653655310572 4.930175576329394e-08
+  hidden rotation_2 0 -1 0 0.41977881629223857
+  hidden linearVelocity_2 -0.03403130764553283 -0.00875451522154948 5.03263444625339e-11
+  hidden angularVelocity_2 0.43772576948306224 -1.70156535849064 -5.074941850500253e-08
+  translation 0.12204943209882801 0.3804044743385186 -6.394262306154593e-05
+  rotation -0.000704257663616388 -8.913280844390434e-05 0.999999748038211 -2.889803315980077
+  controller "flynav_neural_v1"
+  supervisor TRUE
+}
