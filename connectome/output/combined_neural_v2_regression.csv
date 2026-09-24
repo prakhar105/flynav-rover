@@ -1,0 +1,7 @@
+trial,case,pass,goal_reached,expect_obstacle,obstacle_activated,neural_active_steps,elapsed_s,final_distance_m,path_length_m,max_proximity,max_obstacle_blend,max_abs_neural_steering,max_left_dna_spikes,max_right_dna_spikes,blend_steps,avoid_steps,goal_fallback_count,mode_transitions,estimated_min_clearance_m
+1,clear_path,True,True,False,False,0,19.008,0.034643,0.56912,77.661,0.0,0.0,0,0,0,0,0,GOAL,0.253605
+2,obstacle_direct,True,True,True,True,245,24.096,0.034643,0.627547,2689.096,1.0,1.0,5,3,158,45,0,GOAL->BLEND->AVOID->GOAL->AVOID->GOAL->AVOID->GOAL->AVOID->GOAL->AVOID->GOAL->AVOID->GOAL->BLEND->AVOID->BLEND->GOAL->BLEND->GOAL,0.001591
+3,obstacle_left,True,True,True,True,166,21.856,0.034971,0.599114,2654.042,1.0,1.0,0,5,138,19,0,GOAL->BLEND->AVOID->GOAL->BLEND->GOAL,0.001697
+4,obstacle_right,True,True,True,True,128,20.096,0.034579,0.582131,2607.123,1.0,0.797969,5,0,109,9,0,GOAL->BLEND->AVOID->BLEND->GOAL->BLEND->GOAL,0.001582
+5,near_wall_obstacle,True,True,True,True,232,23.936,0.034848,0.626817,2694.308,1.0,1.0,5,2,156,42,0,GOAL->BLEND->AVOID->GOAL->AVOID->GOAL->AVOID->GOAL->AVOID->GOAL->AVOID->GOAL->AVOID->GOAL->AVOID->GOAL->AVOID->GOAL->BLEND->AVOID->BLEND->GOAL,0.001691
+6,goal_behind_obstacle,True,True,True,True,233,23.136,0.034746,0.606004,2658.622,1.0,0.797948,5,0,166,30,0,GOAL->BLEND->AVOID->GOAL->AVOID->GOAL->AVOID->GOAL->AVOID->GOAL->BLEND->AVOID->BLEND->GOAL->AVOID->GOAL->AVOID->GOAL->AVOID->GOAL,0.001769

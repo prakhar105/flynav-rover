@@ -1,0 +1,5 @@
+case,source_trial,repeat,goal_reached,elapsed_s,final_distance_m,last_5s_displacement_m,last_5s_goal_progress_m,max_proximity,max_abs_neural_steering,max_abs_shadow_steering,bilateral_dna_steps,equal_nonzero_dna_steps,neural_sign_flip_count,shadow_sign_flip_count,neural_shadow_sign_disagreement_steps,neural_blend_steps,neural_avoid_steps,mode_transitions
+trial03_direct,3,1,False,45.024,0.35715,9.7e-05,5e-06,1884.024,0.796467,0.268658,1088,789,297,2,0,15,1075,GOAL->BLEND->AVOID
+trial03_direct,3,2,True,28.128,0.034651,0.15036,0.149466,2671.711,1.0,1.0,107,77,22,0,0,148,120,GOAL->BLEND->AVOID->GOAL->AVOID->GOAL->BLEND->AVOID->BLEND->GOAL->BLEND->GOAL
+trial14_near_wall,14,1,True,39.488,0.034835,0.150221,0.14912,2661.359,1.0,1.0,438,176,236,1,2,157,449,GOAL->BLEND->AVOID->GOAL->AVOID->GOAL->AVOID->GOAL->BLEND->GOAL->BLEND->GOAL->BLEND->GOAL
+trial14_near_wall,14,2,True,33.024,0.034878,0.150219,0.149118,2667.923,1.0,1.0,218,103,70,1,0,156,235,GOAL->BLEND->AVOID->GOAL->AVOID->GOAL->AVOID->GOAL->AVOID->GOAL->AVOID->GOAL->AVOID->GOAL->AVOID->GOAL->BLEND->GOAL->BLEND->GOAL->BLEND->GOAL->BLEND->GOAL->AVOID->GOAL
