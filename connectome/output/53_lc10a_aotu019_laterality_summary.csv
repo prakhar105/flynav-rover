@@ -1,0 +1,6 @@
+lc10a_side,aotu_side,dna_type,dna_side,path_count,bottleneck_score,max_bottleneck,mean_bottleneck,lc10a_neurons,aotu_neurons,dna_neurons
+R,R,DNa02,L,107,7595,174,70.98130841121495,107,1,1
+R,R,DNa03,L,107,7595,174,70.98130841121495,107,1,1
+L,L,DNa02,R,99,6615,166,66.81818181818181,99,1,1
+L,L,DNa03,R,99,6615,166,66.81818181818181,99,1,1
+L,L,DNa03,L,99,99,1,1.0,99,1,1

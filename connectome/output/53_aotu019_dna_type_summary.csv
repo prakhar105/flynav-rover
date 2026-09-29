@@ -1,0 +1,6 @@
+aotu_side,dna_type,dna_side,edge_count,total_weight,max_weight,mean_weight,aotu_neurons,dna_neurons
+R,DNa02,L,1,297,297,297.0,1,1
+L,DNa02,R,1,289,289,289.0,1,1
+R,DNa03,L,1,245,245,245.0,1,1
+L,DNa03,R,1,226,226,226.0,1,1
+L,DNa03,L,1,1,1,1.0,1,1

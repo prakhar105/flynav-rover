@@ -1,0 +1,6 @@
+source_type_final,target_type_final,total_weight,edge_count,mean_weight,max_weight
+PFL2,DNa03,1571,24,65.45833333333333,95
+PFL3,DNa02,736,24,30.666666666666668,51
+DNa03,DNa02,552,2,276.0,297
+PFL3,DNa03,468,24,19.5,31
+PFL2,DNa02,5,4,1.25,2

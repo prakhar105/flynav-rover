@@ -1,0 +1,4 @@
+phase,visible_frames,mean_steering_proxy,median_steering_proxy,expected,passed
+LEFT,100,-1.0,-1.0,negative / LEFT,True
+CENTER,100,-0.031707000000000034,-0.03170700000000004,near zero,True
+RIGHT,100,0.9999999999999999,0.9999999999999999,positive / RIGHT,True

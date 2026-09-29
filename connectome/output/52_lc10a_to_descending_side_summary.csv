@@ -1,0 +1,11 @@
+path_kind,source_side,target_side,total_score,path_or_edge_count,source_neurons,target_neurons
+direct,L,L,581.0,111,80,8
+direct,L,R,5.0,3,3,2
+direct,R,L,10.0,9,9,1
+direct,R,R,864.0,152,93,9
+two_hop,L,L,233092.0,19452,,
+two_hop,L,M,3440.0,198,,
+two_hop,L,R,225375.0,13576,,
+two_hop,R,L,274459.0,18384,,
+two_hop,R,M,4291.0,376,,
+two_hop,R,R,287776.0,25010,,

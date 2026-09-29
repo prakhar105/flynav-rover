@@ -1,0 +1,3 @@
+condition,DNa02_L_spikes,DNa02_R_spikes,steering_score_R_minus_L,predicted_turn
+stimulate_LEFT_turn_PFL3,17,0,-17,LEFT
+stimulate_RIGHT_turn_PFL3,0,17,17,RIGHT

@@ -1,0 +1,4 @@
+stage,edge_count,total_weight,source_neurons,target_neurons,source_types,target_types,max_weight
+MeTu -> TuBu,6118,60486,974,156,12,10,87
+TuBu -> ER,568,16055,156,245,10,22,137
+ER -> EPG,11599,123998,282,46,26,1,75

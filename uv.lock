@@ -344,6 +344,7 @@ dependencies = [
     { name = "matplotlib" },
     { name = "networkx" },
     { name = "neuprint-python" },
+    { name = "numpy" },
     { name = "pandas" },
     { name = "python-dotenv" },
 ]
@@ -354,6 +355,7 @@ requires-dist = [
     { name = "matplotlib", specifier = ">=3.11.2" },
     { name = "networkx", specifier = ">=3.7" },
     { name = "neuprint-python", specifier = ">=0.6.3" },
+    { name = "numpy", specifier = ">=2.5.3" },
     { name = "pandas", specifier = ">=3.0.6" },
     { name = "python-dotenv", specifier = ">=1.2.3" },
 ]

@@ -1,0 +1,2 @@
+connected_lc10a_neurons,connected_lc10a_L,connected_lc10a_R,epg_neurons,cosine_similarity_L_vs_R,total_variation_L_vs_R,l1_distance_L_vs_R,left_peak_heading,right_peak_heading,left_circular_phase_index,right_circular_phase_index,left_circular_vector_strength,right_circular_vector_strength
+87,46,41,46,0.9838947769263506,0.06799059016427289,0.13598118032854578,R3,R3,10.35723289670172,8.638225242103006,0.0726438625630371,0.059736638195883277

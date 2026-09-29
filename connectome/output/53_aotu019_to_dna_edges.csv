@@ -1,0 +1,6 @@
+aotu_bodyId,aotu_instance,aotu_side,aotu_predictedNt,dna_bodyId,dna_type,dna_instance,dna_side,dna_predictedNt,weight
+10005,AOTU019_R,R,gaba,523769,DNa02,DNa02_L,L,acetylcholine,297
+10070,AOTU019_L,L,gaba,10360,DNa02,DNa02_R,R,acetylcholine,289
+10005,AOTU019_R,R,gaba,519624,DNa03,DNa03_L,L,acetylcholine,245
+10070,AOTU019_L,L,gaba,10975,DNa03,DNa03_R,R,acetylcholine,226
+10070,AOTU019_L,L,gaba,519624,DNa03,DNa03_L,L,acetylcholine,1

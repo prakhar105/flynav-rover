@@ -1,0 +1,4 @@
+stage,edge_count,total_weight,source_neurons,target_neurons,max_weight
+LC10a -> TuBu,172,461,87,55,15
+LC10a-linked TuBu -> ER,234,7182,55,151,134
+LC10a-linked ER -> EPG,5871,62814,151,46,75
